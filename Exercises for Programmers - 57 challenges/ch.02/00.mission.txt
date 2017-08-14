@@ -1,0 +1,33 @@
+1. Saying Hello
+What is your name? Brian
+Hello, Brian, nice to meet you!
+
+2. Counting the Number of Characters
+What is the input string? Homer
+Homer has 5 characters.
+
+3. Printing Quotes
+What is the quote? These aren't the droids you're looking for.
+Who said it? Obi-Wan Kenobi
+Obi-Wan Kenobi says, "These aren't the droids you're looking for."
+
+4. Mad Lib
+Enter a noun: dog
+Enter a verb: walk
+Enter an adjective: blue
+Enter an adverb: quickly
+Do you walk your blue dog quickly? That's hilarious!
+
+5. Simple Math
+What is the first number? 10
+What is the second number? 5
+10 + 5 = 15
+10 - 5 = 5
+10 * 5 = 50
+10 / 5 = 2
+
+6. Retirement Calculator
+What is your current age? 25
+At what age would you like to retire? 65
+You have 40 years left until you can retire.
+It's 2017, so you can retire in 2057.
